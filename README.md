@@ -1,54 +1,52 @@
-# carlogiulietti.github.io
+# Nutrition Mate – App Support
 
-This repository hosts the **public GitHub Pages website** for **CG Software Solutions LLC**.
+Welcome to the official support page for **Nutrition Mate**, a nutrition tracking application developed by **CG Software Solutions LLC**.
 
-It is used exclusively to publish **root-level verification and compliance files** required by mobile platforms and advertising providers, including:
-
-- **app-ads.txt** (IAB / Google AdMob authorized sellers)
-- Platform verification files (if required in the future)
-
-This site is **not** a marketing website and does **not** contain application code.
+This page provides access to app support resources, privacy information, and contact details.
 
 ---
 
-## Purpose
+## App Information
 
-The primary purpose of this repository is to:
+**App Name:** Nutrition Mate  
+**Developer:** CG Software Solutions LLC  
+**Platform:** iOS  
 
-- Provide a publicly accessible root domain  
-- Host `app-ads.txt` at: https://carlogiulietti.github.io/app-ads.txt
-- Comply with:
-  - Google AdMob & IAB Transparency requirements  
-  - Apple App Store advertising verification  
-  - Platform integrity and trust checks  
+Nutrition Mate helps users estimate daily macronutrient targets and track food intake for personal, informational, and educational purposes only.
 
 ---
 
-## app-ads.txt
+## Support
 
-The `app-ads.txt` file declares authorized digital sellers for mobile applications published by **CG Software Solutions LLC**.
+If you experience issues, have questions, or would like to provide feedback, please contact us:
 
-This file is required to:
-- Prevent ad fraud
-- Enable ad serving via Google AdMob
-- Lift limited ad serving restrictions
+📧 **Email:** cgsoftwaresolutionsllc@gmail.com
 
----
-
-## Related Repositories
-
-- **nutrition-mate** (private)  
-Main application source code
-
-- **nutrition-mate-privacy** (public)  
-Hosts the official Privacy Policy for the Nutrition Mate app
+We aim to respond to support inquiries as quickly as possible.
 
 ---
 
-## Contact
+## Privacy Policy
 
-**CG Software Solutions LLC**  
-📧 cgsoftwaresolutionsllc@gmail.com
+The full Privacy Policy for Nutrition Mate is available here:
+
+🔗 **Privacy Policy:**  
+https://carlogiulietti.github.io/nutrition-mate-privacy/
+
+---
+
+## Legal & Disclaimers
+
+Nutrition Mate provides general nutrition-related information for informational and educational purposes only.  
+It is **not intended as medical advice** and should not be used as a substitute for professional medical consultation, diagnosis, or treatment.
+
+Always consult a qualified healthcare professional before making dietary or lifestyle changes.
+
+---
+
+## Advertising Transparency
+
+This site also hosts required advertising transparency files (such as `app-ads.txt`) in accordance with industry standards.
 
 ---
 
