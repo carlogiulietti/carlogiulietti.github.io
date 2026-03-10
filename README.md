@@ -20,7 +20,7 @@ Nutrition Mate helps users estimate daily macronutrient targets and track food i
 
 If you experience issues, have questions, or would like to provide feedback, please contact us:
 
-📧 **Email:** cgsoftwaresolutionsllc@gmail.com
+📧 **Email:** support@cgsoftwaresolutions.org
 
 We aim to respond to support inquiries as quickly as possible.
 
